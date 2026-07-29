@@ -1,0 +1,5 @@
+This is an interesting unit.
+
+Using the linux terminal commands is interesting, frustrating and confusing.
+github is cool, but i am not a software engineer
+some of the names of these commands are weird as, who decided that creating a new file should be "touch". It doesn't make any sense.
