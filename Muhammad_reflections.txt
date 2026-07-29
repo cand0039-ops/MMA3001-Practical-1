@@ -1,0 +1,8 @@
+
+Interesting points:
+- The way Colab integrates with GitHub is very convenient.
+- The concept of version control and branching is powerful for teamwork.
+
+Difficulties:
+- Resolving merge conflicts can be tricky without practice.
+- Understanding all the Git commands and their nuances.
